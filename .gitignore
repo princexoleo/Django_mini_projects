@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# Custom python settings.py file path
+.dj_auths\dj_auths\settings.py
